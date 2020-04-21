@@ -22,6 +22,7 @@ gem 'webpacker'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'react_on_rails', '11.3.0'
+gem 'devise' #Set for authentication
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
